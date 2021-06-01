@@ -9,7 +9,7 @@
 
   <p align="center">
     Cosmix - Visual Version è un rifacimento, in HTML5, CSS3 e JavaScript, di un altro progetto creato in precedenza, il cui codice è presente in questo repository (https://github.com/GiacomoBorsellino/Cosmix).</br>
-    Lo scopo di questa versione è quella di permettere una visualizzazione più immediata del progetto principale.</br>
+    Lo scopo di questa versione è quello di permettere una visualizzazione più immediata del progetto principale.</br>
     N.b. La versione ha puro scopo <strong>dimostrativo</strong>. Per visionare il tema, le funzionalità e la struttura del codice, prego visionare il progetto principale.
   </p>
   <p align="center">
