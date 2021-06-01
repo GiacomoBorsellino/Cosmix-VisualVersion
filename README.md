@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/GiacomoBorsellino/Cosmix/main/Tema/cosmix/images/cosmix.png?token=AO7GPNMGWRP6YKROBMOZPNLAUDQAM" alt="Logo" width="200">
   </a>
 
-  <h3 align="center">Cosmix</h3>
+  <h3 align="center">Cosmix - Visual Version</h3>
 
   <p align="center">
     Cosmix - Visual Version è un rifacimento, in HTML5, CSS3 e JavaScript, di un altro progetto creato in precedenza, il cui codice è presente in questo repository (https://github.com/GiacomoBorsellino/Cosmix).
