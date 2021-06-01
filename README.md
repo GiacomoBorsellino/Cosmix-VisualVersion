@@ -64,17 +64,13 @@ N.b. Le immagini e le informazioni inserite sono a puro scopo dimostrativo.
 
 ## Installazione
 
-1. Clona il repository
+1. Clona il repository o semplicemente scaricalo cliccando il tasto download
 
    ```sh
    git clone https://github.com/GiacomoBorsellino/Cosmix-Visual_Version
    ```
 
 2. Entra nella cartella
-
-   ```sh
-   Cd Cosmix-Visual_Version
-   ```
 
 3. Clicca il file index.html
 
