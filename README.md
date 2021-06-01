@@ -56,11 +56,12 @@ I plugin in questione sono:
 
 
 N.b. Le immagini e le informazioni inserite sono a puro scopo dimostrativo.
+La visual version ha puro scopo dimostrativo, se si vogliono testare le funzionalità, andare al progetto principale. 
+
 
 ## Prerequisiti
 
-* Installare XAMPP (Creerà l'ambiente corretto per avviare MySQL e Apache)
-* Installare il CMS WordPress
+* Un browser aggiornato
 
 ## Installazione
 
